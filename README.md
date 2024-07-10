@@ -22,6 +22,8 @@ Implemented algorithms:
   2.2) Data size () <br/>
   2.3) Generation of new data (Randomly generate new data): <br/>
 
+### Ex.
+
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
 <img src="img/img3.png"> <br/>
