@@ -13,14 +13,14 @@ Implemented algorithms:
 ### This is built using HTML, CSS, JavaScript <br/>
 
 Features:
-1) Colored representation of step being executed.
-  1.1) Cyan:default
-  1.2) Blue: Being compared
-  1.3) Green: In correct position
-2) 3 Controls for visualizations
-  2.1) Speed of visualization
-  2.2) Data size ()
-  2.3) Generation of new data (Randomly generate new data).
+1) Colored representation of step being executed: <br/>
+  1.1) Cyan:default <br/>
+  1.2) Blue: Being compared <br/>
+  1.3) Green: In correct position <br/>
+3) 3 Controls for visualizations <br/>
+  2.1) Speed of visualization <br/>
+  2.2) Data size () <br/>
+  2.3) Generation of new data (Randomly generate new data): <br/>
 
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
