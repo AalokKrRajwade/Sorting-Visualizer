@@ -12,7 +12,7 @@ Implemented algorithms:
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-Features:
+####Features:
 1) Colored representation of step being executed: <br/>
   1.1) Cyan:default <br/>
   1.2) Blue: Being compared <br/>
