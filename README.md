@@ -17,13 +17,18 @@ Implemented algorithms:
   1.1) Cyan:default <br/>
   1.2) Blue: Being compared <br/>
   1.3) Green: In correct position <br/>
-3) 3 Controls for visualizations <br/>
+  
+2) 3 Controls for visualizations <br/>
   2.1) Speed of visualization <br/>
   2.2) Data size () <br/>
   2.3) Generation of new data (Randomly generate new data): <br/>
 
-### Ex.
-
+### Example: <br/>
+1. Bubble sort: <br/>
 <img src="img/img1.png"> <br/>
+
+2. Selection sort: <br/>
 <img src="img/img2.png"> <br/>
+
+3. Insertion sort: <br/>
 <img src="img/img3.png"> <br/>
